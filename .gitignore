@@ -1,0 +1,11 @@
+node_modules/
+uploads/
+__pycache__/
+.env
+dist/
+*.mp4
+*.exe
+ffmpeg.exe
+ffprobe.exe
+frontend/.next/
+frontend/node_modules/

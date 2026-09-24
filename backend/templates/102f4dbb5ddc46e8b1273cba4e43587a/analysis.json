@@ -1,0 +1,264 @@
+{
+  "filename": "source.mp4",
+  "duration": 16.433,
+  "width": 720,
+  "height": 1280,
+  "ratio": "9:16",
+  "fps": 30.0,
+  "beats": [
+    0.464,
+    0.906,
+    1.347,
+    1.811,
+    2.252,
+    2.694,
+    3.135,
+    3.599,
+    4.017,
+    4.458,
+    4.923,
+    5.364,
+    5.805,
+    6.246,
+    6.711,
+    7.152,
+    7.593,
+    8.034,
+    8.475,
+    8.916,
+    9.358,
+    9.799,
+    10.263,
+    10.704,
+    11.146,
+    11.587,
+    12.028,
+    12.469,
+    12.91,
+    13.351,
+    13.793,
+    14.257,
+    14.698,
+    15.139,
+    15.581
+  ],
+  "scene_cuts": [
+    0.267,
+    0.533,
+    0.8,
+    7.467,
+    7.733,
+    8.0,
+    8.267,
+    8.533,
+    8.8,
+    9.067,
+    9.333,
+    9.6,
+    10.667,
+    10.933,
+    11.2,
+    11.467,
+    11.733,
+    12.0,
+    12.267,
+    12.533,
+    12.8,
+    13.067,
+    13.333,
+    13.6,
+    13.867,
+    14.133,
+    14.4,
+    14.667,
+    14.933,
+    15.2,
+    15.467
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.267,
+      "duration": 0.267,
+      "transition": "cut"
+    },
+    {
+      "start": 0.533,
+      "end": 0.8,
+      "duration": 0.267,
+      "transition": "cut"
+    },
+    {
+      "start": 0.906,
+      "end": 1.347,
+      "duration": 0.441,
+      "transition": "cut"
+    },
+    {
+      "start": 1.347,
+      "end": 1.811,
+      "duration": 0.464,
+      "transition": "cut"
+    },
+    {
+      "start": 1.811,
+      "end": 2.252,
+      "duration": 0.441,
+      "transition": "cut"
+    },
+    {
+      "start": 2.252,
+      "end": 2.694,
+      "duration": 0.442,
+      "transition": "cut"
+    },
+    {
+      "start": 2.694,
+      "end": 3.135,
+      "duration": 0.441,
+      "transition": "cut"
+    },
+    {
+      "start": 3.135,
+      "end": 3.599,
+      "duration": 0.464,
+      "transition": "cut"
+    },
+    {
+      "start": 3.599,
+      "end": 4.017,
+      "duration": 0.418,
+      "transition": "cut"
+    },
+    {
+      "start": 4.017,
+      "end": 4.458,
+      "duration": 0.441,
+      "transition": "cut"
+    },
+    {
+      "start": 4.458,
+      "end": 4.923,
+      "duration": 0.465,
+      "transition": "cut"
+    },
+    {
+      "start": 4.923,
+      "end": 5.364,
+      "duration": 0.441,
+      "transition": "cut"
+    },
+    {
+      "start": 5.364,
+      "end": 5.805,
+      "duration": 0.441,
+      "transition": "cut"
+    },
+    {
+      "start": 5.805,
+      "end": 6.246,
+      "duration": 0.441,
+      "transition": "cut"
+    },
+    {
+      "start": 6.246,
+      "end": 6.711,
+      "duration": 0.465,
+      "transition": "cut"
+    },
+    {
+      "start": 6.711,
+      "end": 7.152,
+      "duration": 0.441,
+      "transition": "cut"
+    },
+    {
+      "start": 7.152,
+      "end": 7.467,
+      "duration": 0.315,
+      "transition": "cut"
+    },
+    {
+      "start": 7.733,
+      "end": 8.0,
+      "duration": 0.267,
+      "transition": "cut"
+    },
+    {
+      "start": 8.533,
+      "end": 8.8,
+      "duration": 0.267,
+      "transition": "cut"
+    },
+    {
+      "start": 9.067,
+      "end": 9.333,
+      "duration": 0.266,
+      "transition": "cut"
+    },
+    {
+      "start": 9.799,
+      "end": 10.263,
+      "duration": 0.464,
+      "transition": "cut"
+    },
+    {
+      "start": 10.263,
+      "end": 10.667,
+      "duration": 0.404,
+      "transition": "cut"
+    },
+    {
+      "start": 11.2,
+      "end": 11.467,
+      "duration": 0.267,
+      "transition": "cut"
+    },
+    {
+      "start": 11.733,
+      "end": 12.0,
+      "duration": 0.267,
+      "transition": "cut"
+    },
+    {
+      "start": 12.533,
+      "end": 12.8,
+      "duration": 0.267,
+      "transition": "cut"
+    },
+    {
+      "start": 13.067,
+      "end": 13.333,
+      "duration": 0.266,
+      "transition": "cut"
+    },
+    {
+      "start": 13.867,
+      "end": 14.133,
+      "duration": 0.266,
+      "transition": "cut"
+    },
+    {
+      "start": 14.4,
+      "end": 14.667,
+      "duration": 0.267,
+      "transition": "cut"
+    },
+    {
+      "start": 15.2,
+      "end": 15.467,
+      "duration": 0.267,
+      "transition": "cut"
+    },
+    {
+      "start": 15.581,
+      "end": 16.433,
+      "duration": 0.852,
+      "transition": "cut"
+    }
+  ],
+  "segment_count": 30,
+  "reconstruction_note": "Timing direkonstruksi dari beat dan perubahan frame; efek project asli tidak dapat dipulihkan hanya dari MP4.",
+  "template_id": "102f4dbb5ddc46e8b1273cba4e43587a",
+  "source_path": "C:\\Users\\User\\Downloads\\Template-Video-Editor-Complete\\Editor-Ghost\\backend\\templates\\102f4dbb5ddc46e8b1273cba4e43587a\\source.mp4"
+}
